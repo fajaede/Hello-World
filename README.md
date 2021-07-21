@@ -1,5 +1,5 @@
 # Hello-World
 Pages github example 1
-i webmaster sinds 2003 used big data before 
-but now i will run it on Azure en Github.
+i webmaster sinds 2003 Programmer/webmaster.
+I will run the code t on Azure en Github.
 fajaede.nl
